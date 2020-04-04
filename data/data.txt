@@ -1,0 +1,1 @@
+Data yang berada dalam folder ini digunakan untuk membuat Shinydashboard Klasifikasi Desa Kabupaten Sigi
